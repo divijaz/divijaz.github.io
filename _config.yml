@@ -1,3 +1,4 @@
-theme: jekyll-theme-architect
+theme: ...
+remote_theme: divijaz/minimal-mistakes
 title: Divija Zoldeo
 description: Hi! This is my test site. 
