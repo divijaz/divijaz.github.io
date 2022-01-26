@@ -1,3 +1,3 @@
 ## Index
 
-[About Me] {about.md}
+[About Me] (about.md)
